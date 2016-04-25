@@ -13,6 +13,11 @@ public class MainClass {
 	System.out.println("Hello World");
 	System.out.println("Mustafa");
 	System.out.println("sp13-bse-092");
+	System.out.println("Mustafa");
+	System.out.println("sp13-bse-092");
+	System.out.println("Hello World");
+	System.out.println("Mustafa");
+	System.out.println("sp13-bse-092");
 	}
 
 }
